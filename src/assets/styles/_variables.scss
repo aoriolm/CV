@@ -1,0 +1,15 @@
+@use "sass:color";
+
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+
+$font-family-serif: Verdana, Geneva, Tahoma, sans-serif;
+
+$alex-corporate-text: black;
+$alex-corporate-bg1: lightblue;
+$alex-corporate-bg2: lightcyan;
+$alex-corporate-bg3: darkslategrey;
+$alex-corporate-color1: color.scale(orange, $lightness: 10%);
+$alex-corporate-color2: white;
+/*$uoc-bg: color.scale($uoc-masterbrand, $lightness: 70%);*/
